@@ -1,0 +1,111 @@
+course_id,title,description,category
+CS101,Introduction to Programming,"Learn the fundamentals of programming using Python, covering variables, control structures, and basic algorithms",Computer Science
+CS102,Data Structures,"Study essential data structures including arrays, linked lists, stacks, queues, and trees",Computer Science
+CS103,Algorithms,"Explore algorithm design and analysis, sorting, searching, and graph algorithms",Computer Science
+CS104,Database Systems,"Learn about database design, SQL, and database management systems",Computer Science
+CS105,Web Development,"Master HTML, CSS, and JavaScript for building modern web applications",Computer Science
+CS106,Machine Learning,"Introduction to machine learning algorithms and their applications",Computer Science
+CS107,Computer Networks,"Study network protocols, architecture, and security",Computer Science
+CS108,Operating Systems,"Learn about process management, memory management, and file systems",Computer Science
+CS109,Software Engineering,"Study software development methodologies, testing, and project management",Computer Science
+CS110,Artificial Intelligence,"Explore AI concepts, neural networks, and natural language processing",Computer Science
+MATH101,Calculus I,"Study limits, derivatives, and integrals of single-variable functions",Mathematics
+MATH102,Calculus II,"Advanced calculus topics including series, multivariable calculus",Mathematics
+MATH103,Linear Algebra,"Study vectors, matrices, and linear transformations",Mathematics
+MATH104,Discrete Mathematics,"Explore logic, set theory, and combinatorics",Mathematics
+MATH105,Probability Theory,"Study probability distributions and statistical inference",Mathematics
+MATH106,Number Theory,"Explore prime numbers, modular arithmetic, and cryptography",Mathematics
+MATH107,Geometry,"Study Euclidean and non-Euclidean geometries",Mathematics
+MATH108,Statistics,"Learn statistical methods and data analysis",Mathematics
+MATH109,Differential Equations,"Study ordinary and partial differential equations",Mathematics
+MATH110,Abstract Algebra,"Explore groups, rings, and fields",Mathematics
+PHYS101,Classical Mechanics,"Study Newton's laws, energy, and momentum",Physics
+PHYS102,Electromagnetism,"Learn about electric and magnetic fields, circuits",Physics
+PHYS103,Quantum Mechanics,"Explore quantum theory and its applications",Physics
+PHYS104,Thermodynamics,"Study heat, energy, and entropy",Physics
+PHYS105,Optics,"Learn about light, lenses, and optical systems",Physics
+PHYS106,Relativity,"Study special and general relativity",Physics
+PHYS107,Nuclear Physics,"Explore atomic structure and nuclear reactions",Physics
+PHYS108,Wave Physics,"Study wave phenomena and applications",Physics
+PHYS109,Solid State Physics,"Learn about materials and their properties",Physics
+PHYS110,Astrophysics,"Explore celestial objects and cosmology",Physics
+CHEM101,General Chemistry,"Study atomic structure, chemical bonding, and reactions",Chemistry
+CHEM102,Organic Chemistry,"Learn about carbon compounds and their reactions",Chemistry
+CHEM103,Inorganic Chemistry,"Study non-carbon compounds and their properties",Chemistry
+CHEM104,Physical Chemistry,"Explore chemical thermodynamics and kinetics",Chemistry
+CHEM105,Biochemistry,"Study chemical processes in living organisms",Chemistry
+CHEM106,Analytical Chemistry,"Learn about chemical analysis methods",Chemistry
+CHEM107,Environmental Chemistry,"Study chemical processes in the environment",Chemistry
+CHEM108,Polymer Chemistry,"Explore macromolecules and their applications",Chemistry
+CHEM109,Medicinal Chemistry,"Study drug design and development",Chemistry
+CHEM110,Chemical Engineering,"Learn about industrial chemical processes",Chemistry
+BIO101,Cell Biology,"Study cell structure, function, and processes",Biology
+BIO102,Genetics,"Learn about inheritance and genetic mechanisms",Biology
+BIO103,Evolution,"Study evolutionary theory and mechanisms",Biology
+BIO104,Ecology,"Explore ecosystems and environmental interactions",Biology
+BIO105,Microbiology,"Study microorganisms and their effects",Biology
+BIO106,Neuroscience,"Learn about the nervous system and brain function",Biology
+BIO107,Immunology,"Study the immune system and disease defense",Biology
+BIO108,Biotechnology,"Explore biological applications in technology",Biology
+BIO109,Marine Biology,"Study ocean ecosystems and marine life",Biology
+BIO110,Plant Biology,"Learn about plant structure and function",Biology
+ENG101,Composition,"Study academic writing and research methods",English
+ENG102,Literature,"Explore major works of world literature",English
+ENG103,Creative Writing,"Learn techniques for fiction and poetry",English
+ENG104,Technical Writing,"Study professional and technical communication",English
+ENG105,Shakespeare,"Explore the works of William Shakespeare",English
+ENG106,Modern Literature,"Study contemporary literary works",English
+ENG107,Poetry,"Learn about poetic forms and analysis",English
+ENG108,Journalism,"Study news writing and reporting",English
+ENG109,Digital Media,"Explore writing for online platforms",English
+ENG110,Literary Theory,"Study critical approaches to literature",English
+HIST101,World History,"Study major events and developments in world history",History
+HIST102,American History,"Learn about United States history",History
+HIST103,European History,"Study European historical developments",History
+HIST104,Ancient Civilizations,"Explore early human societies",History
+HIST105,Modern History,"Study recent historical events",History
+HIST106,Asian History,"Learn about Asian historical developments",History
+HIST107,African History,"Study African historical developments",History
+HIST108,Military History,"Explore warfare and military developments",History
+HIST109,Economic History,"Study historical economic systems",History
+HIST110,Cultural History,"Learn about historical cultural developments",History
+PSYCH101,General Psychology,"Study basic psychological principles",Psychology
+PSYCH102,Developmental Psychology,"Learn about human development",Psychology
+PSYCH103,Social Psychology,"Study group behavior and social influence",Psychology
+PSYCH104,Cognitive Psychology,"Explore mental processes and behavior",Psychology
+PSYCH105,Abnormal Psychology,"Study psychological disorders",Psychology
+PSYCH106,Personality Psychology,"Learn about personality theories",Psychology
+PSYCH107,Clinical Psychology,"Study psychological assessment and treatment",Psychology
+PSYCH108,Industrial Psychology,"Explore workplace psychology",Psychology
+PSYCH109,Health Psychology,"Study psychological aspects of health",Psychology
+PSYCH110,Neuropsychology,"Learn about brain-behavior relationships",Psychology
+BUS101,Introduction to Business,"Study basic business concepts",Business
+BUS102,Marketing,"Learn about marketing principles",Business
+BUS103,Finance,"Study financial management",Business
+BUS104,Management,"Learn about organizational management",Business
+BUS105,Accounting,"Study financial accounting",Business
+BUS106,Economics,"Learn about economic principles",Business
+BUS107,Entrepreneurship,"Study business creation",Business
+BUS108,International Business,"Learn about global business",Business
+BUS109,Human Resources,"Study personnel management",Business
+BUS110,Business Ethics,"Learn about ethical business practices",Business
+ART101,Art History,"Study major art movements",Art
+ART102,Drawing,"Learn basic drawing techniques",Art
+ART103,Painting,"Study painting methods",Art
+ART104,Sculpture,"Learn sculptural techniques",Art
+ART105,Digital Art,"Study computer-based art",Art
+ART106,Photography,"Learn photographic techniques",Art
+ART107,Design,"Study design principles",Art
+ART108,Animation,"Learn animation techniques",Art
+ART109,Art Criticism,"Study art analysis",Art
+ART110,Art Therapy,"Learn therapeutic art methods",Art
+MUS101,Music Theory,"Study musical concepts",Music
+MUS102,Music History,"Learn about music development",Music
+MUS103,Composition,"Study music writing",Music
+MUS104,Performance,"Learn performance techniques",Music
+MUS105,Jazz Studies,"Study jazz music",Music
+MUS106,Classical Music,"Learn about classical music",Music
+MUS107,World Music,"Study global music traditions",Music
+MUS108,Music Technology,"Learn about music production",Music
+MUS109,Music Education,"Study music teaching",Music
+MUS110,Music Therapy,"Learn therapeutic music methods",Music
